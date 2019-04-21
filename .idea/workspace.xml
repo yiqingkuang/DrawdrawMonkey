@@ -2,276 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad79238b-bd39-46de-838e-684af28e8a16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/autoMonkey.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/setCondition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/appShell.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20181227_231231/appPerformance20181227_231231.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20181227_231231/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190210_170740/appPerformance20190210_170740.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190210_170740/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190210_170830/appPerformance20190210_170830.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190210_170830/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190210_170941/appPerformance20190210_170941.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190210_170941/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190210_230157/appPerformance20190210_230157.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190210_230157/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190210_230432/appPerformance20190210_230432.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190210_230432/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_120823/appPerformance20190211_120823.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_120823/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_121120/appPerformance20190211_121120.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_121120/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_174424/appPerformance20190211_174424.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_174424/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_192834/appPerformance20190211_192834.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_192834/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_192902/appPerformance20190211_192902.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_192902/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_200208/appPerformance20190211_200208.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_200208/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_200650/appPerformance20190211_200650.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_200650/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_210214/appPerformance20190211_210214.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190211_210214/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_213623/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_213623/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_213623/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_213623/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_213623/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_213623/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_214801/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_214801/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_214801/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_214801/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_214801/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_214801/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215138/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215138/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215138/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215138/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215138/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215138/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215232/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215232/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215232/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215232/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215232/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215232/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215339/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215339/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215339/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215339/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215339/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_215339/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220255/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220255/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220255/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220255/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220255/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220255/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220444/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220444/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220444/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220444/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220444/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220444/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220653/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220653/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220653/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220653/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220653/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_220653/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221010/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221010/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221010/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221010/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221010/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221010/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221016/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221016/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221016/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221016/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221016/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221016/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221123/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221123/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221123/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221123/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221123/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221123/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221320/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221320/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221320/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221320/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221320/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_221320/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_222901/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_222901/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_222901/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_222901/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_222901/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_222901/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_223234/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_223234/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_223234/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_223234/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_223234/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_223234/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_223624/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_223624/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_223624/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_223624/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_223624/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_223624/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_231620/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_231620/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_231620/appPerformance20190213_231620.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_231620/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_231620/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_231620/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232330/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232330/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232330/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232330/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232330/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232330/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232526/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232526/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232526/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232526/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232526/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232526/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232648/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232648/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232648/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232648/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232648/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232648/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232733/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232733/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232733/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232733/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232733/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_232733/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_233645/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_233645/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_233645/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_233645/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_233645/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_233645/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_233953/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_233953/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_233953/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_233953/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_233953/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_233953/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234200/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234200/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234200/appPerformance20190213_234200.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234200/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234200/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234200/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234200/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234542/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234542/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234542/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234542/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234542/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234542/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234705/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234705/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234705/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234705/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234705/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_234705/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235036/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235036/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235036/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235036/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235036/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235036/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235715/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235715/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235720/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235720/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235720/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235720/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235720/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190213_235720/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000603/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000603/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000603/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000603/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000603/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000603/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000608/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000608/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000608/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000608/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000608/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000608/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000650/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000650/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000650/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000650/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000650/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000650/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000659/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000659/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000659/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000659/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000659/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_000659/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001002/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001002/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001002/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001002/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001002/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001002/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001446/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001446/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001446/appPerformance20190214_001446.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001446/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001446/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001446/tcp_rcv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001446/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001446/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001526/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001526/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001526/appPerformance20190214_001526.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001526/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001526/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001526/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001526/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001705/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001705/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001705/appPerformance20190214_001705.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001705/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001705/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001705/tcp_rcv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001705/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190214_001705/top.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190421_173636/1logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190421_173636/1monkey_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190421_173636/appPerformance20190421_173636.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190421_173636/gfxinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190421_173636/meminfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190421_173636/tcp_snd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testLogs/20190421_173636/top.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/util.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -323,11 +54,11 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="4" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -343,12 +74,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="51" />
+          <entry key="py" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="51" />
+          <entry key="Python" value="52" />
         </counts>
       </usages-collector>
     </session>
@@ -370,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-286">
+            <state relative-caret-position="110">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="e#18#27#0" expanded="true" />
@@ -379,20 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf/setCondition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -409,11 +131,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6226">
-              <caret line="285" column="30" selection-start-line="285" selection-start-column="30" selection-end-line="285" selection-end-column="30" />
+            <state relative-caret-position="765">
+              <caret line="291" lean-forward="true" selection-start-line="291" selection-end-line="291" />
               <folding>
                 <element signature="e#18#27#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/appShell.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9815">
+              <caret line="107" column="89" lean-forward="true" selection-start-line="107" selection-start-column="89" selection-end-line="107" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -477,14 +208,14 @@
         <option value="$PROJECT_DIR$/conf/config.py" />
         <option value="$PROJECT_DIR$/core/appShell.py" />
         <option value="$PROJECT_DIR$/start.py" />
-        <option value="$PROJECT_DIR$/core/util.py" />
         <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/core/util.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="800" />
-    <option name="y" value="39" />
+    <option name="x" value="924" />
+    <option name="y" value="210" />
     <option name="width" value="938" />
     <option name="height" value="1072" />
   </component>
@@ -494,6 +225,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -508,13 +240,17 @@
             </path>
             <path>
               <item name="autoMonkey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoMonkey" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoMonkey" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -682,7 +418,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="39" width="938" height="1072" extended-state="0" />
+    <frame x="924" y="210" width="938" height="1072" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22444445" />
@@ -743,9 +479,7 @@
         <state relative-caret-position="-2046" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testLogs/20190210_170830/gfxinfo.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/testLogs/20190210_170830/gfxinfo.txt" />
     <entry file="file://$USER_HOME$/Anaconda3/Lib/os.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -833,30 +567,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/appShell.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2948">
-          <caret line="139" column="33" selection-start-line="139" selection-start-column="33" selection-end-line="139" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/setCondition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$USER_HOME$/Anaconda3/Lib/threading.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18018">
           <caret line="825" column="77" selection-start-line="825" selection-start-column="77" selection-end-line="825" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6226">
-          <caret line="285" column="30" selection-start-line="285" selection-start-column="30" selection-end-line="285" selection-end-column="30" />
-          <folding>
-            <element signature="e#18#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -888,20 +612,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/conf/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-286">
+        <state relative-caret-position="110">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#18#27#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/setCondition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -915,10 +639,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__init__.py">
+    <entry file="file://$PROJECT_DIR$/core/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        <state relative-caret-position="765">
+          <caret line="291" lean-forward="true" selection-start-line="291" selection-end-line="291" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/appShell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9815">
+          <caret line="107" column="89" lean-forward="true" selection-start-line="107" selection-start-column="89" selection-end-line="107" selection-end-column="89" />
         </state>
       </provider>
     </entry>

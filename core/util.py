@@ -289,5 +289,3 @@ def report_format(workbook):
     data_format = workbook.add_format({'border': 1})
     return merge_format, bold_format, data_format
 
-# if __name__ == '__main__':
-#     readMeminfoFile('F:\Allan\\appTesting\\autoMonkey\\testLogs\\20171114_151918\\meminfo.txt')
